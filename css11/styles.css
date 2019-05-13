@@ -1,6 +1,12 @@
 @media screen and (min-width: 320px) {
 
 
+
+.l-body {
+  list-style: none;
+}
+
+
 /* header部分 */
 
 
@@ -644,6 +650,7 @@
   width: 90%;
   border-left: 1px solid #dcdcdc;
   border-right: 1px solid #dcdcdc;
+  list-style: none;
 }
 
 
